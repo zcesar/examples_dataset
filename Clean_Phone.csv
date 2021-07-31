@@ -1,0 +1,39 @@
+Timestamp,Computer,Homescreen,Age,Unlock,Phone_Age,US,Siblings,Gmail,Subject,Phone
+3/17/2021 9:00:08,Pc,1,15,Face unlock,One year,Yes,1,No,Math,Iphone
+3/17/2021 9:00:34,Pc,5,18,Face unlock,One year,No,1,Yes,Math,Iphone
+3/17/2021 9:00:37,Mac,3,16,Face unlock,One year,No,1,Yes,Arts,Iphone
+3/17/2021 9:00:40,Mac,4,18,Touch id,Three years,No,0,Yes,Science,Iphone
+3/17/2021 9:01:20,Mac,1,17,Touch id,Two years,Yes,3,Yes,History,Iphone
+3/17/2021 9:01:33,Mac,4,17,Face unlock,Less than One year,No,1,Yes,Arts,Iphone
+3/17/2021 9:01:39,Pc,3,16,Face unlock,One year,No,3,Yes,Arts,Iphone
+3/17/2021 9:01:48,Mac,2,15,Face unlock,One year,No,2,Yes,Arts,Iphone
+3/17/2021 9:04:43,Pc,4,17,Password,Less than One year,Yes,4,Yes,Arts,Iphone
+3/17/2021 9:04:50,Pc,4,17,Password,Two years,Yes,1,Yes,Science,Iphone
+3/17/2021 9:06:17,Mac,3,17,Password,Two years,No,0,Yes,Arts,Iphone
+3/17/2021 9:09:21,Pc,2,16,Touch id,More than five years,No,1,Yes,Math,Android
+3/17/2021 9:10:07,Mac,5,16,Face unlock,One year,Yes,2,Yes,Math,Iphone
+3/17/2021 9:22:26,Mac,1,16,Touch id,Less than One year,No,2,Yes,Math,Android
+3/17/2021 9:22:38,Pc,4,15,Face unlock,One year,No,3,Yes,Math,Iphone
+3/17/2021 9:30:34,Mac,3,19,Face unlock,Two years,No,3,Yes,History,Iphone
+3/17/2021 9:37:31,Mac,1,18,Face unlock,Two years,Yes,1,Yes,Science,Iphone
+3/17/2021 9:47:49,Mac,3,18,Password,Two years,No,0,Yes,History,Iphone
+3/17/2021 9:50:51,Pc,3,15,Touch id,Three years,Yes,1,Yes,History,Iphone
+3/17/2021 9:51:37,Pc,1,17,Password,Three years,Yes,2,Yes,Math,Iphone
+3/17/2021 10:10:28,Mac,3,16,Touch id,Less than One year,No,2,No,Math,Android
+3/17/2021 10:12:20,Pc,2,17,Face unlock,Less than One year,Yes,5,Yes,Arts,Iphone
+3/17/2021 10:14:08,Pc,5,18,Touch id,Less than One year,Yes,1,Yes,Arts,Android
+3/17/2021 10:41:20,Mac,3,16,Face unlock,One year,Yes,0,Yes,Arts,Iphone
+3/17/2021 10:44:44,Mac,4,19,Touch id,Two years,No,1,Yes,Science,Android
+3/17/2021 10:47:18,Pc,2,18,Face unlock,Two years,Yes,1,Yes,History,Iphone
+3/17/2021 11:09:39,Pc,3,18,Touch id,Two years,No,0,Yes,Math,Android
+3/17/2021 12:32:01,Mac,3,15,Touch id,Three years,Yes,4,Yes,Math,Iphone
+3/17/2021 12:36:20,Pc,3,16,Touch id,One year,Yes,2,Yes,Arts,Iphone
+3/17/2021 12:39:47,Mac,4,16,Touch id,Three years,Yes,2,No,Arts,Iphone
+3/17/2021 13:39:02,Mac,3,18,Password,Less than One year,No,0,No,Science,Iphone
+3/17/2021 15:11:11,Mac,2,18,Face unlock,One year,Yes,1,Yes,History,Iphone
+3/17/2021 19:16:07,Mac,3,17,Face unlock,One year,Yes,0,Yes,Math,Iphone
+3/17/2021 20:23:11,Mac,4,14,Touch id,Three years,Yes,3,Yes,Math,Iphone
+3/17/2021 20:26:54,Mac,3,16,Face unlock,One year,Yes,0,Yes,History,Iphone
+3/17/2021 22:28:45,Mac,3,18,Touch id,One year,Yes,1,Yes,History,Iphone
+3/17/2021 23:30:47,Pc,4,16,Face unlock,Less than One year,No,1,No,Arts,Iphone
+3/18/2021 6:42:16,Mac,4,15,Face unlock,One year,Yes,3,Yes,History,Iphone
